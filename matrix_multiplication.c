@@ -1,3 +1,7 @@
+
+// THIS PROJECT IS NOT OVER, THE DETERMINANT AND INVERSE FUNCTIONS ARE YET TO BE COMPLETED
+
+
 #include <stdio.h>
 
 int m1, n1, i, j, m2, n2;
